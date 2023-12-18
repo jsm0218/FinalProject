@@ -19,10 +19,9 @@
 
 - 소스코드 설명 (java)
 
-- 애플리케이션 실행
+- 애플리케이션 작동 영상
 
-- 소감 및 피드백
-
+- 총평 및 피드백
 
 ---
 # 프로젝트 소개 (UP & DOWN 게임)
@@ -38,6 +37,12 @@
     - **1부터 50**까지의 숫자를 맞추는 **NORMAL** 난이도
     - **1부터 100**까지의 숫자를 맞추는 **HARD** 난이도
 
+---
+
+# 애플리케이션 실행
+
+[![Video Label](https://cdn.discordapp.com/attachments/1061501682741157890/1185727802612404345/Screenshot_20231217_083545__.png?ex=6590aa11&is=657e3511&hm=bced87c306eb611efd347fd9bebdb16ce29f1ca5b413f507554a94d5680b57ac&)](https://youtu.be/l3N-3laiKc0)
+
 
 
 ---
@@ -49,10 +54,11 @@
     - 직접 풀어보기 10-1 변형 **(난이도 선택 기능 구현)**
 
 - SecondActivity & ThirdActivity : **UP & DOWN 게임 구현**
-    - **교재 4장, 5장** 학습 내용을 바탕으로 구현
+    - **교재 4장, 5장** 학습 내용을 바탕으로 **레이아웃 구성**
+    - **UP & DOWN 게임에 대한 코드**는 **인터넷 검색** 이용
     - **노멀 난이도** : **SecondActivity** / **하드 난이도** : **ThirdActivity**
 
-- 포토샵을 이용하여 **앱 아이콘 디자인 작업** 진행    
+- **포토샵**과 **icons8 사이트**를 이용하여 **앱 아이콘 디자인 작업** 진행    
 
 ---
 
@@ -60,7 +66,7 @@
 
 ![bg right:40% 80%](https://cdn.discordapp.com/attachments/1061501682741157890/1185515794608705556/image.png?ex=658fe49f&is=657d6f9f&hm=57943d7e0c77d0404afa90a59191e04770d9340d0b8bd06c381ca444a84735f7&)
 
-- 직접 풀어보기 10-1 변형
+- 직접 풀어보기 10-1 참고
 
 - 이미지뷰 + 라디오 버튼 2개 -> 라디오 그룹으로 구성
 
@@ -207,15 +213,10 @@ public class SecondActivity extends AppCompatActivity {
     }
 }
 ```
----
-
-# 애플리케이션 실행
-
-[![Video Label](https://cdn.discordapp.com/attachments/1061501682741157890/1185727802612404345/Screenshot_20231217_083545__.png?ex=6590aa11&is=657e3511&hm=bced87c306eb611efd347fd9bebdb16ce29f1ca5b413f507554a94d5680b57ac&)](https://youtu.be/l3N-3laiKc0)
 
 ---
 
-# 소감 및 피드백
+# 총평 및 피드백
 
 - 개발 기간은 예상보다 길었지만, 주어진 기간 안에 프로젝트 완성
 
