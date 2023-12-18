@@ -6,7 +6,7 @@
 
 20203264 정승민
 
-https://drive.google.com/file/d/1rYAexuU8aHZk6LgtQAcrRbCgYN0xdGjs/view?usp=sharing
+[프로젝트 다운로드 / 구글 드라이브](https://drive.google.com/file/d/1oPPBXPKYSUCLSmx2wBPjkmzi4Zjee-jU/view?usp=sharing)
 
 ---
 # 목차
